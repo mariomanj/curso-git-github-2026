@@ -1,0 +1,13 @@
+comando ls (lista o que existe no diretorio)
+comando cd (muda de diretorio)
+comando pwd (onde vc está)
+comando ls -a (arquivos ocultos)
+comando cd ..(volta uma pasta)
+ctrl + l limpa a tela
+mkdir (criar pastas)
+cat abre o arquivo
+
+
+
+
+
