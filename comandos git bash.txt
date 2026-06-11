@@ -30,6 +30,8 @@ git log (historico)
 8. git status
 9. volta ao passo 3
 
+git diff (detalha oq foi modificado)
+
 
 
 
