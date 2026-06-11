@@ -33,6 +33,11 @@ git log (historico)
 git diff . (detalha oq foi modificado)
 git diff nome arquivo (detalha o arquivo)
 git reset (volta um estado de commit)
+git checkout -b nome da branch (cria ramificação)
+git branch (mostra as branchs)
+git checkout master/main (volta para principal) -b (novo)
+
+
 
 
 
