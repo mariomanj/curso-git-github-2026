@@ -30,7 +30,9 @@ git log (historico)
 8. git status
 9. volta ao passo 3
 
-git diff (detalha oq foi modificado)
+git diff . (detalha oq foi modificado)
+git diff nome arquivo (detalha o arquivo)
+git reset (volta um estado de commit)
 
 
 
