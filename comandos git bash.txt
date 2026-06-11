@@ -6,6 +6,18 @@ comando cd ..(volta uma pasta)
 ctrl + l limpa a tela
 mkdir (criar pastas)
 cat abre o arquivo
+git init . (criar um repositorio/versionamento)
+rm -rf .git/ (excluir a pasta .git)
+git status
+git add (prepara para o commit)
+git commit -m "xxx" (cria o commit e legenda)
+git config --global user.email "xxx@hotmail.com"
+git config --global user.email (email cadastrado)
+git config --global user.name (nome cadastrado)
+rm (remove arquivo ou diretorio)
+nano (abre o editor de texto)
+
+
 
 
 
