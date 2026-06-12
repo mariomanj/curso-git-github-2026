@@ -36,7 +36,8 @@ git reset (volta um estado de commit)
 git checkout -b nome da branch (cria ramificação)
 git branch (mostra as branchs)
 git checkout master/main (volta para principal) -b (novo)
-
+git merge (junta as branches)
+git branch -d nome do branch (apagar uma branch)
 
 
 
