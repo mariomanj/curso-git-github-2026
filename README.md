@@ -9,3 +9,10 @@ ao final do curso e Visual Studio Code.
 
 Isso tudo é um processo de aprendizado para
 Ciência de Dados.
+
+Mario Lucio
+Engenheiro de Produção
+Criador de Conteudo
+YouTube @oficialvardaresenha
+Instagram @oficialvardaresenha
+TikTok @oficialvardaresenha1
