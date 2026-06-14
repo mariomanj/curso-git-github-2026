@@ -40,6 +40,7 @@ git merge (junta as branches) esc + :wq para atualizar na minha versao
 git branch -d nome do branch (apagar uma branch)
 touch (nome do arquivo) cria um arquivo
 git push (mandar arquivo) origin main
+git pull (recebe arquivos) origin main
 
 
 
