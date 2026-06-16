@@ -21,6 +21,8 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
+Isso tudo vai ser voltado para o Curso de Ciencia de Dados do Futebol Interativo
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
