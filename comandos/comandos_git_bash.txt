@@ -43,7 +43,8 @@ git push (mandar arquivo) origin main
 git pull (recebe arquivos) origin main*** (começo de trabalho) /develop
 git fetch (busca as branchs no github)
 padronizacao de commits pesquisar
-
+.gitignore para ignorar arquivos que o VSC nao le ex. *.pptr
+.gitkeep para manter a pasta mesmo "vazia" para organização
 
 
 
