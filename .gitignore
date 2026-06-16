@@ -1,3 +1,16 @@
 *.pptx
-
+*.docx
+*.xlsx 
+*.pdf
+*.zip
+*.tar.gz
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.xls
+*.parquet 
+*.csv
+  
 
